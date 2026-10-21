@@ -1,7 +1,0 @@
-numpy
-matplotlib
-xarray
-rasterio
-stackstac
-pystac-client
-planetary-computer
